@@ -18,14 +18,12 @@
 3. Choose 'import existing maven project' option in eclipse. 
 <br> You can search for those steps online, just search 'how to import existing maven project in eclipse'. 
 
-4. Then import the database files in your MySQL database. Database files are provided [here](https://github.com/rid17pawar/HospitalManagement/tree/master/databaseFiles%20and%20demoLoginCredentials/hospitaldb).
+4. Then import the database files in your MySQL database. Database files are provided [here]https://github.com/Susheel6263/HealthCare/tree/main/databaseFiles%20and%20demoLoginCredentials/hospitaldb).
 
-5. You can then run this web-application on your Tomcat server. For login use the credentials provided in [this](https://github.com/rid17pawar/HospitalManagement/blob/master/databaseFiles%20and%20demoLoginCredentials/loginPasswordsForDemo.txt) file. (Select correct role and fill the Username and Password) 
+5. You can then run this web-application on your Tomcat server. For login use the credentials provided in [this]https://github.com/Susheel6263/HealthCare/blob/main/databaseFiles%20and%20demoLoginCredentials/loginPasswordsForDemo.txt file. (Select correct role and fill the Username and Password) 
 <br> If you want to add more users just login as admin and choose 'add employee' option and fill all the details. It will create new employee with his own login credentials. The Aadhar no. will be the default password and Empid will be the username.
 
 ## Technologies Used-
-
-![techStack](https://github.com/rid17pawar/HospitalManagement/assets/47048717/0b9e95e2-b3f0-41bb-b76f-75c275273389)
 
 ### 1. Front end Technologies:
   - HTML
