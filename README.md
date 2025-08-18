@@ -131,10 +131,9 @@
 ![State Diagram](https://github.com/rid17pawar/HospitalManagement/assets/47048717/c60747f3-ba73-4611-bc46-ce6413799cf4)
 
 👥 Contributors
-Group 6 – CDAC Project Team
+Group 6 – Vits College Project Team
 
 Susheel Tiwari
-Sahil Jaiswal
 Vikas Dwivedi
-Sooryamani Agnihotri
+
 ### Thank You !
